@@ -1,0 +1,30 @@
+        .box{
+            border: 1px solid gray ;
+            width: 750px;
+            margin-left: 300px;
+            margin-top: 80px;
+            box-shadow: 2px 2px 10px;
+            padding: 30px;
+            background-color:rgb(24, 146, 89);
+            border: 1px solid black;
+        }
+        .hovr:hover{
+            background-color: gray;
+
+        }
+        .font{
+            color: white;
+        }
+        /* .box1{
+            border: 1px solid  rgb(146, 33, 168) ;
+            width: 950px;
+            margin-left: 200px ;
+            height:700px;
+            background-color: rgb(146, 33, 168);
+            box-shadow: 2px 2px 10px;
+
+        } */
+        body{
+            background-color: rgb(175, 121, 121) ;
+            
+        }
